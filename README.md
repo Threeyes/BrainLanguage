@@ -7,5 +7,5 @@ I have been thinking about: do we need to create "Native Language" for communica
 It take times to learn. No matter you are a child , a foreigner who try to fit in or a programmer who want to create game, you always need to learn the new language from scratch, which is slow and painful.
 2. 通过本地语言传递信息时会导致丢失。不同时代的人沟通会有断层（例子：你能跟李白聊表情包吗？）、通过语言表达的会造成误解、记录在书本的故事会丢失作者原意。  
 The information will break through native language. People in different age have communication issuse (eg: can you chat to Αριστοτέλης about emojis?), message spoken by language will be misunderstanded, storys written in books will lost authors thoughts,
-
+3. 不光要学的好，还要用得好。没人愿意看情节出彩但文笔拙劣的小说，也没人愿意接受屎山代码。如果使用本地语言生成的信息达不到一定格式标准时，狗都不会看一眼，那么自己花的精力都白费了。
 ——未完待续，手上项目完成后继续更新

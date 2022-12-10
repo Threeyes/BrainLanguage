@@ -1,13 +1,24 @@
-# BrainLanguage
+# 脑语
 
-我一直在想一件事：为什么我们一定要创造“本地语言”来交流和记录？“人类语言”有以下几种缺点：  
-I have been thinking about: do we need to create "Native Language" for communication or recording? Here's some cons about this:
+## 免责声明
+本文为纯脑洞及可行性探讨，偏民科，暂无严谨实验支撑，欢迎吐槽。
 
-1. 需要花费时间学习。无论婴儿咿呀学语，还是外国人试图融入本地环境，或者是程序员准备开发游戏，都需要从头开始学习对应语言，而从学习到熟悉的过程是缓慢和痛苦的。  
-It take times to learn. No matter you are a child , a foreigner who try to fit in or a programmer who want to create game, you always need to learn the new language from scratch, which is slow and painful.
-2. 通过本地语言传递信息时会导致丢失。不同时代的人沟通会有断层（例子：你能跟李白聊表情包吗？）、通过语言表达的会造成误解、记录在书本的故事会丢失作者原意。  
-The information will break through native language. People in different age have communication issuse (eg: can you chat to Αριστοτέλης about emojis?), message spoken by language will be misunderstanded, storys written in books will lost authors thoughts,
-3. 不光要学的好，还要用得好。没人愿意看情节出彩但文笔拙劣的小说，也没人愿意接受屎山代码。如果使用本地语言生成的信息达不到一定格式标准时，狗都不会看一眼，那么自己花的精力都白费了。
+## 摘要
+如果脑语本来就存在，我们可以对其善加利用，而不需要重头创建一门语言。
+
+## 引言
+人类之间的信息传递依赖媒介，如口语、文本及编程语言等（本文统称为“符言”）。“符言”既用于日常实时口头沟通，又常以文本等方式进行跨时空存储。
+
+> “符言”是人类用于沟通和记录的工具统称，主要涉及到的感官能力有视、听、说，也有涉及触和嗅的方式。（[详细介绍](https://zhuanlan.zhihu.com/p/131494586)）
+
+“符言”虽然推动了文明社会的发展，但其有以下几个缺点：
+1. 需要花费大量时间掌握一门语言或文字。无论是婴儿的咿呀学语，还是外国人试图融入本地环境，或者是程序员准备开发应用，都需要从头学习对应语言，而从了解到熟悉的过程通常是缓慢和痛苦的。 
+2. 不光要学，还得会用。如果使用某种语言生成的信息达不到一定标准时，这条信息即为无效。没人愿意看情节出彩但文笔拙劣的小说，也没人爱听结巴讲笑话。
+3. 通过“符言”传递信息时，会因为双方掌握的基础数据不对等而导致传递过程中出现“丢包”甚至“无法解析”。常见情况如下：
+    * 不同时代、地区、物种之间的生物难以沟通。你能跟李白探讨《时间简史》吗？你能跟狗子无缝吵架吗？
+    * 发送方因无法完整准确地传递想法而导致词不达意，接收者也常会产生误解。史书中的故事可能会在不同读者的传阅下逐渐丢失作者原意，亲密朋友间沟通可能也会产生歧义。
+
+
 
 
 ——未完待续，手上项目完成后继续更新
